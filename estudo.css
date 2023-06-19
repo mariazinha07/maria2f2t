@@ -7,14 +7,14 @@ body {
     background-color: rgb(0, 0, 0);
 }
 .barra {
-    background-color: rgb(84, 218, 223);
+    background-color: rgb(191, 84, 223);
     height: 20vh;
     grid-area: barra;
    
 
 }
 .lado {
-    background-color: rgb(27, 161, 179);
+    background-color: rgb(118, 27, 179);
     height: 60vh;
     grid-area: lado;
 }
