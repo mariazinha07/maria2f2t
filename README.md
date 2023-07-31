@@ -1,3 +1,3 @@
 # Segundo Trimestre-mobile-first
 
-Maria Andreto-26
+Maria-26
